@@ -1,7 +1,4 @@
-Cython
-CythonGSL
 docrep
-gsl
 numpy>=1.12.0
 pandas
 scipy
